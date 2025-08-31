@@ -1,10 +1,6 @@
 {
   "whitelist": [
     {
-      "uuid": "5b8274bf-b162-4336-85a0-48f9d5380a78",
-      "name": "Veyronity"
-    },
-    {
       "uuid": "e9623b91-1be0-4242-92c8-659db89d1b5d",
       "name": "davegam"
     },
