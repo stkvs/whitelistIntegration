@@ -1,10 +1,6 @@
 {
   "whitelist": [
     {
-      "uuid": "7da43f72-25e9-44b1-bb26-e0c023c83e69",
-      "name": "Seristic"
-    },
-    {
       "uuid": "5b8274bf-b162-4336-85a0-48f9d5380a78",
       "name": "Veyronity"
     },
